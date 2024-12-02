@@ -28,4 +28,4 @@ The repository is structured as follows:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of Claude Sonnet3.5 and ChatGPT4o. Part of the writing process, including generating and polishing was written with the help of ChatGPT4o, and the entire chat history is available in `other/llms/usage.txt`.
+Aspects of the code were written with the help of ChatGPT4o. The writing process, including generating and polishing was also written with the help of ChatGPT4o, and the entire chat history is available in `other/llms/usage.txt`.
